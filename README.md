@@ -5,7 +5,7 @@ Repository template for Open Data Hub Special Interest Groups
 
 SIG ML Developer Experience covers end-to-end experience for a data scientist, a data analyst or an application developer.
 
-The [charter](https://github.com/opendatahub-io/opendatahub-community/blob/master/sig-ml-developer-experience/charter.md) defines the scope and governance of the ML Developer Experience Special Interest Group.
+The [charter](https://github.com/opendatahub-io/odh-template-sig/blob/main/Docs/charter.md) defines the scope and governance of the ML Developer Experience Special Interest Group.
 
 ## Meetings
 
